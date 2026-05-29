@@ -14,7 +14,7 @@ const allowedOrigins = [
   'https://tramd.netlify.app',
   'https://belltrek.netlify.app',
   'https://sunny-pastelito-8843b7.netlify.app',
-  'https://viralbell.netlify.app',
+  'https://tramd.netlify.app',
   'https://jhvnb.vercel.app',
    // add all your trusted frontends here
 ];
